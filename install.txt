@@ -1,4 +1,4 @@
-docker pull https://github.com/cswclui/play-with-docker/
+git clone https://github.com/cswclui/play-with-docker/
 cd play-with-docker
 docker swarm init
 docker pull franela/dind
